@@ -1,3 +1,7 @@
+There's a concept in Buddhism called the second Arrow. The first arrow is the external circumstance that impacts you in a hurtful way, not getting the promotion, being bullied, missing your sales goals. The second arrow is the one you send at yourself for feeling the way you do about it. It's judging yourself for being stupid or weak for feeling that way. Another way to think of self empathy then is stop sending the second arrows, difficult emotions are hard enough, being hard on yourself for having them doesn't help you manage them.
+
+
+
 ```csharp
 using System;
 using System.Xml.Serialization;
